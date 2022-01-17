@@ -1,0 +1,2 @@
+unitree_ros_to_real/unitree_legged_msgs:unitree_ros_to_real/unitree_legged_real
+-DCATKIN_DEVEL_PREFIX=/home/xuan/go1_ctrl/devel -DCMAKE_INSTALL_PREFIX=/home/xuan/go1_ctrl/install -G Unix Makefiles
